@@ -14,7 +14,7 @@
 	<name>cpdevops</name>
 	<description>CP devops I 2 semestre</description>
 	<properties>
-		<version>11<version>
+		<version>11</version>
 	</properties>
 	<dependencies>
 		<dependency>
